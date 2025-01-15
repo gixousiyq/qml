@@ -1,0 +1,8 @@
+[package]
+name = "qml"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cstr = "0.2.12"
+qmetaobject = "0.2.10"
